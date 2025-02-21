@@ -5,7 +5,9 @@ This repository contains scripts to **export** and **import** Appwrite database 
 ## 🎯 Features
 
 ✅ Export and import Appwrite database schema 
+
 ✅ Backup and restore database records 
+
 ✅ Automated scripts using Node.js 
 
 ## 📌 How to Use
@@ -62,4 +64,5 @@ Additionally, some scripts require further modifications, including:
 ......
 
 ✨ These additional configurations are explained in the respective JavaScript files as comments.
+
 🔍 Before running any script, check the file and modify these values accordingly.
